@@ -3,5 +3,6 @@
 Estudante do último ano de Redes de Computadores no CEFET-MG.
 Belo Horizonte - MG, Brasil.
 
-#### Sobre mim
+### Sobre mim
 Busco aprender um pouco mais todos os dias.
+Muito interessado em Back-End :computer:
