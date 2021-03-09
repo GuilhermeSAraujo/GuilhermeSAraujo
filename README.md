@@ -14,5 +14,3 @@ Belo Horizonte - MG, Brasil.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSAraujo&layout=compact)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSAraujo)
-
-
