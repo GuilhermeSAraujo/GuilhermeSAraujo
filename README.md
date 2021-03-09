@@ -11,7 +11,7 @@ Belo Horizonte - MG, Brasil.
 
 :link:[Currículo](https://drive.google.com/file/d/15zdpFxmRVAnLQJ5x2siO6Zm_vLSM12dq/view?usp=sharing)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSAraujo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSAraujo&layout=compact)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSAraujo)
 
