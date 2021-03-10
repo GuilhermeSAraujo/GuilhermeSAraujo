@@ -16,6 +16,7 @@ Belo Horizonte - MG, Brasil.
 ![HTML](https://img.shields.io/badge/-HTML-red) 
 ![CSS](https://img.shields.io/badge/-CSS-lightpink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow)
 ![Git](https://img.shields.io/badge/-Git-darkgrey)
 
