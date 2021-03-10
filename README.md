@@ -7,6 +7,17 @@ Belo Horizonte - MG, Brasil.
 * Busco aprender um pouco mais todos os dias.
 * Muito interessado em Back-End :computer:
 
+### Tecnologias
+
+![NodeJs](https://img.shields.io/badge/-Node.js-green)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue) 
+![Java](https://img.shields.io/badge/-Java-yellowgreen) 
+![HTML](https://img.shields.io/badge/-HTML-red) 
+![CSS](https://img.shields.io/badge/-CSS-lightpink)
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow)
+![Git](https://img.shields.io/badge/-Git-darkgrey)
+
 :link:[Linkedin](https://www.linkedin.com/in/guilhermesouzaaraujo/)
 
 :link:[Currículo](https://drive.google.com/file/d/15zdpFxmRVAnLQJ5x2siO6Zm_vLSM12dq/view?usp=sharing)
