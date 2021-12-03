@@ -28,6 +28,6 @@ Belo Horizonte - MG, Brasil.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSAraujo)
 
-[//]: ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSAraujo)
+[comment]: ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSAraujo)
 
 []'s
