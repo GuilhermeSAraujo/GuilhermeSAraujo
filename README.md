@@ -13,11 +13,12 @@ Belo Horizonte - MG, Brasil.
 ### Tecnologias
 
 ![NodeJs](https://img.shields.io/badge/-Node.js-green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue)
+![React](https://img.shields.io/badge/-JavaScript-lightblue)
 ![Java](https://img.shields.io/badge/-Java-purple) 
 ![HTML](https://img.shields.io/badge/-HTML-red) 
 ![CSS](https://img.shields.io/badge/-CSS-lightpink)
-![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow)
 ![Git](https://img.shields.io/badge/-Git-darkgrey)
