@@ -7,7 +7,7 @@ Formado em Redes de Computador pelo CEFET-MG.
 Belo Horizonte - MG, Brasil.
 
 ### Sobre mim
-* Busco aprender um pouco mais todos os dias.
+* Buscando aprender um pouco mais todos os dias.
 * Muito interessado em Back-End :computer:
 
 ### Tecnologias
