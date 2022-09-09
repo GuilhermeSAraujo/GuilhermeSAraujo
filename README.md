@@ -12,7 +12,7 @@ Belo Horizonte - MG, Brasil.
 
 ### Tecnologias
 
-![.NET](https://img.shields.io/badge/-.NET-blue)
+![.NET](https://img.shields.io/badge/-.NET-purple)
 ![React](https://img.shields.io/badge/-React-darkgreen)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) 
 ![NodeJs](https://img.shields.io/badge/-Node.js-green)
