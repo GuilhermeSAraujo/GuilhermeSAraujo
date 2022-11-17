@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de Informação - PUC-MG
 
-Formado em Redes de Computador pelo CEFET-MG.
+Técnico em Redes de Computador pelo CEFET-MG.
 
 Belo Horizonte - MG, Brasil.
 
