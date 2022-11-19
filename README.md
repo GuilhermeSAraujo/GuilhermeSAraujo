@@ -1,4 +1,4 @@
-## Olá, eu sou o Guilherme👋
+## Olá, eu sou o Guilherme 🤓👨‍💻
 
 Estudante de Sistemas de Informação - PUC-MG
 
