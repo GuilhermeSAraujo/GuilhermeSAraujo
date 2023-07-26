@@ -1,14 +1,10 @@
-## Olá, eu sou o Guilherme 🤓👨‍💻
+## Hey there! I'm Guilherme 🤓👨‍💻
 
-Estudante de Sistemas de Informação - PUC-MG
+### About Me:
+I'm a Systems Information student at PUC-MG and a Computer Network Technician from CEFET-MG. Currently based in Belo Horizonte, MG, Brazil.
 
-Técnico em Redes de Computador pelo CEFET-MG.
-
-Belo Horizonte - MG, Brasil.
-
-### Sobre mim
-* Buscando aprender um pouco mais todos os dias.
-* Muito interessado em Back-End :computer:
+What I'm All About:
+I'm constantly on the lookout to learn something new every day, and I'm particularly passionate about Back-End development 💻. Let's code something awesome together!
 
 ### Tecnologias
 
