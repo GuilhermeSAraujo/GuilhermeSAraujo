@@ -6,7 +6,7 @@ I'm a Systems Information student at PUC-MG and a Computer Network Technician fr
 What I'm All About:
 I'm constantly on the lookout to learn something new every day, and I'm particularly passionate about Back-End development 💻. Let's code something awesome together!
 
-### Tecnologias
+### Stacks
 
 ![.NET](https://img.shields.io/badge/-.NET-purple)
 ![React](https://img.shields.io/badge/-React-darkgreen)
