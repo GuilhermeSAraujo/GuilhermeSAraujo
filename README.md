@@ -20,7 +20,7 @@ I'm constantly on the lookout to learn something new every day, and I'm particul
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellow)
 ![Git](https://img.shields.io/badge/-Git-darkgrey)
 
-:link:[Linkedin](https://www.linkedin.com/in/guilhermesouzaaraujo/)
+### :link:[Linkedin](https://www.linkedin.com/in/guilhermesouzaaraujo/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSAraujo&layout=compact)
 
