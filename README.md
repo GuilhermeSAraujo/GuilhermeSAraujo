@@ -1,4 +1,4 @@
-## Hey there! I'm Guilherme 🤓👨‍💻
+## Hey there! I'm Guilherme, a FullStack developer 🤓👨‍💻
 
 ### About Me:
 I'm a Systems Information student at PUC-MG and a Computer Network Technician from CEFET-MG. Currently based in Belo Horizonte, MG, Brazil.
