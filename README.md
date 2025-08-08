@@ -1,10 +1,15 @@
-## Hey there! I'm Guilherme, a FullStack developer 🤓👨‍💻
+## Hey there! I'm Guilherme, a Full Stack Developer 🤓👨‍💻
 
-### About Me:
-I'm a Systems Information student at PUC-MG and a Computer Network Technician from CEFET-MG. Currently based in Belo Horizonte, MG, Brazil.
+### About Me
+I'm a Bachelor's graduate in Information Systems from PUC-MG and a Computer Network Technician from CEFET-MG.  
+Currently based in Belo Horizonte, MG, Brazil.
 
-What I'm All About:
-I'm constantly on the lookout to learn something new every day, and I'm particularly passionate about Back-End development 💻. Let's code something awesome together!
+### What I'm All About
+I'm always eager to learn something new every day and have a strong passion for Back-End development 💻.  
+Let's code something awesome together!
+
+I built [Check-In](https://checkin-five-nu.vercel.app/) to solve a real problem I faced with event confirmations, specifically for small event venues. Feel free to use it, any feedback is welcome! :)
+
 
 ### Stacks
 
