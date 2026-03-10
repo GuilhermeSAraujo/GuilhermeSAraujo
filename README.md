@@ -8,7 +8,9 @@ Currently based in Belo Horizonte, MG, Brazil.
 I'm always eager to learn something new every day and have a strong passion for Back-End development 💻.  
 Let's code something awesome together!
 
-I built [Check-In](https://checkin-five-nu.vercel.app/) to solve a real problem I faced with event confirmations, specifically for small event venues. Feel free to use it, any feedback is welcome! :)
+[**Remind Me**](https://remind-me-eight-pi.vercel.app/) -> I kept forgetting things and hated juggling yet another app for reminders. So I built a WhatsApp bot that uses AI to parse natural language and schedule them for you, right where you already chat.
+
+[**Check-In**](https://checkin-five-nu.vercel.app/) -> organizing small events and manually tracking guest confirmations was a mess. This handles RSVPs, group confirmations, and QR code check-in so you don't have to. Feedback is always welcome :)
 
 
 ### Stacks
