@@ -12,6 +12,7 @@ Let's code something awesome together!
 
 [**Check-In**](https://checkin-five-nu.vercel.app/) -> organizing small events and manually tracking guest confirmations was a mess. This handles RSVPs, group confirmations, and QR code check-in so you don't have to. Feedback is always welcome :)
 
+[**Clojure Blog**](https://blog-frontend-seven-tan.vercel.app/) -> personal blog to store some articles I wrote, written in functional language to study, learn and practice basic Clojure.
 
 ### Stacks
 
