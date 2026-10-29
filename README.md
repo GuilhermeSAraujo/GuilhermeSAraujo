@@ -8,7 +8,7 @@ Currently based in Belo Horizonte, MG, Brazil.
 I'm always eager to learn something new every day and have a strong passion for Back-End development 💻.  
 Let's code something awesome together!
 
-[Câmara Municipal de Belo Horizonte](https://glow-kyle-invalid-sailing.trycloudflare.com/) → Track your city councilor’s activity: the bills they vote for, the laws they help pass, and the status of their proposed legislation.
+[Câmara Municipal de Belo Horizonte](https://repository-circles-retrieved-placed.trycloudflare.com/) → Track your city councilor’s activity: the bills they vote for, the laws they help pass, and the status of their proposed legislation.
 
 [**Remind Me**](https://remind-me-eight-pi.vercel.app/) -> I kept forgetting things and hated juggling yet another app for reminders. So I built a WhatsApp bot that uses AI to parse natural language and schedule them for you, right where you already chat.
 
